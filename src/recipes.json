@@ -1,0 +1,121 @@
+{
+    "ramen_carbonara": {
+        "id": 1,
+        "name": "ramen carbonara",
+        "emojigredients": "🥓🧀🥚🍜🧈",
+        "ingredients": [
+            "6ish strips bacon",
+            "2 cups boiling water",
+            "3 tablespoons butter",
+            "1 cup grated parmesan or pecorino, divided",
+            "2 packs ramen noodles",
+            "2 eggs, whisked"
+        ],
+        "steps": [
+            {
+                "emoji": "🥓",
+                "instructions": "chop 6ish strips of bacon into small pieces and cook in skillet. remove."
+            },
+            {
+                "emoji": "💧🧈",
+                "instructions": "over med-high heat, add 2 cups hot water to empty greasy skillet, 3T butter, and 1/2 cup cheese"
+            },
+            {
+                "emoji": "🍜",
+                "instructions": "bring to boil and add 2 packets noodles (omit flavor dust), cook to al dente ~3 mins"
+            },
+            {
+                "emoji": "🥚",
+                "instructions": "reduce heat to low, add 2 whisked eggs, stir 1 min"
+            },
+            {
+                "emoji": "🥓",
+                "instructions": "add bacon and remaining 1/2 cup cheese"
+            },
+            {
+                "emoji": "",
+                "instructions": "top with a fried egg if you like and enjoy w/ pepper 💖"
+            }
+        ]
+    },
+    "sorbet": {
+        "id": 2,
+        "name": "sorbet",
+        "emojigredients": "🍐🍯🍋",
+        "ingredients": [
+            "160 grams (3/4 cup) sugar",
+            "5 large pears",
+            "30g (4 teaspoons) honey",
+            "40g (2 tablespoons) agave",
+            "2 teaspoons lemon juice"
+        ],
+        "steps": [
+            {
+                "emoji": "🍐",
+                "instructions": "peel, core, and quarter pears"
+            },
+            {
+                "emoji": "💧🍬",
+                "instructions": "add 1/2 cup water and 160g sugar to medium saucepan, simmer until sugar dissolves"
+            },
+            {
+                "emoji": "🍐",
+                "instructions": "add pears and simmer 10 mins or until soft"
+            },
+            {
+                "emoji": "🍯🍋",
+                "instructions": "remove from heat and stir in 30g honey, 40g agave, 2 teaspoons lemon juice."
+            },
+            {
+                "emoji": "🔪",
+                "instructions": "blend and chill at least 2 hours"
+            },
+            {
+                "emoji": "❄️",
+                "instructions": " freeze in ice cream maker"
+            }
+        ]
+    },
+    "chocolate_chip_cookies": {
+        "id": 3,
+        "name": "chocolate chip cookies",
+        "emojigredients": "🥚🍬🧈🍫🌼",
+        "ingredients": [
+            "2 cups + 2 tablespoons flour",
+            "1/2 t baking soda",
+            "1/2 t salt",
+            "12 T butter",
+            "1 cup brown sugar",
+            "1/2 cup sugar",
+            "1 egg + 1 egg yolk",
+            "2 t vanilla",
+            "1 bag chocolate chips"
+        ],
+        "steps": [
+            {
+                "emoji": "🔥",
+                "instructions": "preheat oven to 325"
+            },
+            {
+                "emoji": "⚪",
+                "instructions": "combine 2 C + 2 T flour, 1/2 t baking soda, 1/2 t salt and set aside"
+            },
+            {
+                "emoji": "🧈🍬",
+                "instructions": "gently melt butter, combine in mixer with 1 C brown sugar and 1/2 C sugar on medium speed 2-3 mins"
+            },
+            {
+                "emoji": "🥚🏾",
+                "instructions": "add egg, bonus yolk, and vanilla and combine"
+            },
+            {
+                "emoji": "⚪",
+                "instructions": "slowly add dry ingredients"
+            },
+            {
+                "emoji": "🍪",
+                "instructions": "roll into scant 1/4 cup balls and bake 15-18 mins, until edges become hard but center is still puffy"
+            }
+        ]
+    }
+}
