@@ -117,5 +117,80 @@
                 "instructions": "roll into scant 1/4 cup balls and bake 15-18 mins, until edges become hard but center is still puffy"
             }
         ]
+    },
+    "gomae": {
+        "id": 3,
+        "name": "gomae",
+        "emojigredients": "🥬🍶⚪",
+        "ingredients": [
+            "big bag of spinach (200-300g)",
+            "2 T tahini",
+            "1.5 T soy sauce",
+            "1 T sugar",
+            ".5 t sake",
+            ".5 t mirin",
+            "sesame seeds"
+        ],
+        "steps": [
+            {
+                "emoji": "🔥💦",
+                "instructions": "boil large pot of salted water"
+            },
+            {
+                "emoji": "🍶⚪",
+                "instructions": "combine 2 T tahini, 1.5 T soy sauce, 1 T sugar, .5 t sake, .5 t mirin"
+            },
+            {
+                "emoji": "🥬💦",
+                "instructions": "blanch spinach for ~45 seconds and transfer to ice water"
+            },
+            {
+                "emoji": "🧻🥬🔪",
+                "instructions": "squeeze spinach to dry, toss in dressing, top with sesame"
+            },
+            {
+                "emoji": "",
+                "instructions": "enjoy cold 💁‍♂️"
+            }
+        ]
+    },
+    "miso_eggplant": {
+        "id": 3,
+        "name": "miso eggplant",
+        "emojigredients": "🍆🍶⚪",
+        "ingredients": [
+            "2 long skinny eggplants",
+            "sesame oil",
+            "mirin",
+            "sake",
+            "miso",
+            "sugar"
+        ],
+        "steps": [
+            {
+                "emoji": "🔪🍆",
+                "instructions": "preheat oven to 425. cut 2 long/skinny eggplants in half hot dog style and then cut trench down center without breaking skin"
+            },
+            {
+                "emoji": "🧂🍆",
+                "instructions": "salt eggplants, let sit for 10 mins, and brush baking sheet with sesame oil"
+            },
+            {
+                "emoji": "🔥🍆",
+                "instructions": "dry eggplants and set skinside up on baking sheet, roast for 15-20 mins until soft"
+            },
+            {
+                "emoji": "🔥🍶",
+                "instructions": "combine 1 T mirin and 1 T sake in saucepan and bring to boil for 20 seconds. over low heat, add 2 T miso and 1 T sugar"
+            },
+            {
+                "emoji": "🔥",
+                "instructions": "flip eggplants, brush with glaze, and broil for ~1 min, until glaze bubbles"
+            },
+            {
+                "emoji": "",
+                "instructions": "cut into bite size pieces and enjoy 😉"
+            }
+        ]
     }
 }
