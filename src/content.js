@@ -15,9 +15,8 @@ import recipes from './recipes.json'
 function Content({location}) {
     console.log(location)
   return (
-    <Router>
       <div>
-        { location.pathname !== "/" && <Nav />}
+        { location.pathname === "/" && <Nav />}
         <Switch>
           <Route path="/sorbet">
             <Sorbet />
@@ -36,7 +35,6 @@ function Content({location}) {
           </Route>
         </Switch>
       </div>
-    </Router>
   );
 }
 
@@ -59,9 +57,6 @@ function Nav() {
                 <li>
                     <Link to="/chocolate_chip_cookies">chocolate chip cookies</Link>
                 </li>
-                <li>
-                    {window.location.pathname}
-                </li>  
             </ul>
         </div>
     );
